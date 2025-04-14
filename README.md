@@ -1,5 +1,8 @@
 # 🏥 AI Medical Doctor
 
+![image](https://github.com/user-attachments/assets/4f06e153-b12e-41b8-8344-264f447119d5)
+
+
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
