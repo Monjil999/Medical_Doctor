@@ -1,13 +1,12 @@
 # 🏥 AI Medical Doctor
 
-![image](https://github.com/user-attachments/assets/4f06e153-b12e-41b8-8344-264f447119d5)
-
-
 ![Python](https://img.shields.io/badge/python-3.11-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
 An AI-powered medical assistant that provides preliminary medical consultations through voice and text interactions.
+
+![image](https://github.com/user-attachments/assets/4f06e153-b12e-41b8-8344-264f447119d5)
 
 ## 🌟 Features
 
@@ -84,13 +83,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-For any queries or support, please reach out to the project maintainer.
-
----
-
-<div align="center">
-  <sub>Built with ❤️ by Monjil Mehta</sub>
-</div> 
